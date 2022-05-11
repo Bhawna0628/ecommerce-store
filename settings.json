@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "C:\\Python310\\python.exe",
+    "code-runner.runInTerminal": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "emmet.includeLanguages": {},
+    "html.format.contentUnformatted": "",
+    "files.associations": {"*html":"html"},
+    "emmet.triggerExpansionOnTab": true
+
+}
